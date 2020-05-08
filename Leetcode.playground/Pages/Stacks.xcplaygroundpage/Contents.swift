@@ -40,19 +40,4 @@ class MinStack {
     
 }
 
-let someStack = MinStack()
-
-someStack.push(2)
-someStack.push(0)
-someStack.push(3)
-someStack.push(0)
-print(someStack.stack.count)
-someStack.getMin()
-someStack.pop()
-someStack.getMin()
-someStack.pop()
-someStack.getMin()
-someStack.pop()
-someStack.getMin()
-print(someStack.stack.count)
 
