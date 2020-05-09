@@ -4,5 +4,6 @@
         <page name='Stacks'/>
         <page name='Other'/>
         <page name='Trees'/>
+        <page name='LRUCache'/>
     </pages>
 </playground>
